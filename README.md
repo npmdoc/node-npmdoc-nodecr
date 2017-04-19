@@ -1,4 +1,7 @@
-# api documentation for  nodecr (v0.0.5)  [![npm package](https://img.shields.io/npm/v/npmdoc-nodecr.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nodecr) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nodecr.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nodecr)
+# npmdoc-nodecr
+
+#### api documentation for  nodecr (v0.0.5)  [![npm package](https://img.shields.io/npm/v/npmdoc-nodecr.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nodecr) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nodecr.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nodecr)
+
 #### A simple wrapper for the Tesseract OCR package
 
 [![NPM](https://nodei.co/npm/nodecr.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nodecr)
